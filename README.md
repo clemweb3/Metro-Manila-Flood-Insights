@@ -1,8 +1,8 @@
 # 🌊 Metro Manila Flood Prediction & Risk Insights Dashboard
-Dashboard Overview
+
 ## Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Data/images/dashboard_overview.jpg)
 
 End-to-end analysis of Metro Manila flood data, combining spatial, meteorological, and topographic information with predictive modeling and an interactive Power BI dashboard.
 
